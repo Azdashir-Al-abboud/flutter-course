@@ -50,7 +50,7 @@ class _MyAppStateless extends State<MyApp> {
         ),
       ),
       // home: Fonts(),
-      // home: GeolocatorP1(),
+      home: GeolocatorP1(),
     );
   }
 }
